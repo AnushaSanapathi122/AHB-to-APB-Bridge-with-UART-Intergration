@@ -113,7 +113,7 @@ You can view and run the simulation here:
 ---
 
 ## 👤 Author
-- Your Name
+Anusha Sanapathi
 
 ---
 
